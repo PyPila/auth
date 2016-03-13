@@ -1,0 +1,5 @@
+-r common.txt
+
+ipython==4.1.1
+readline==6.2.4.1
+pdbpp==0.8.1

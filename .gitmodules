@@ -1,0 +1,3 @@
+[submodule "auth-client"]
+	path = auth-client
+	url = https://github.com/PyPila/auth-client.git
